@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- QR Reticle Corner: Top Left -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M33,42 L33,35 A4,4 0 0,1 37,31 L44,31" />
+    <!-- QR Reticle Corner: Top Right -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M64,31 L71,31 A4,4 0 0,1 75,35 L75,42" />
+    <!-- QR Reticle Corner: Bottom Left -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M33,66 L33,73 A4,4 0 0,0 37,77 L44,77" />
+    <!-- QR Reticle Corner: Bottom Right -->
+    <path
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M64,77 L71,77 A4,4 0 0,0 75,73 L75,66" />
+    <!-- Center Shield -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,38 L65,42 C65,54 59.5,63 54,67 C48.5,63 43,54 43,42 Z" />
+    <!-- Checkmark inside Shield -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M48.5,52 L52.5,56 L59.5,47" />
+</vector>
